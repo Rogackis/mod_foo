@@ -4,7 +4,7 @@
  *  \brief     Moduł dla Sportowiada JSM!<br/>
  *  \details   Przykładowy moduł Foo
  *  \author    RoGool
- *  \version   0.0.3
+ *  \version   0.0.4
  *  \date      2022
  *  \copyright GNU General Public License version 2 or later; see LICENSE.txt
  */
