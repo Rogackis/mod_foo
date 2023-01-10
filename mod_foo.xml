@@ -22,7 +22,7 @@
     <language tag="pl-PL">language/pl-PL/mod_foo.sys.ini</language>
   </languages>
   <updateservers>
-    <server type="extension" priority="1" name="Moduł Foo">https://raw.githubusercontent.com/Rogackis/mod_foo/main/mod_foo.xml</server>
+    <server type="extension" priority="1" name="Moduł Foo">https://raw.githubusercontent.com/Rogackis/mod_foo/main/foo_update.xml</server>
   </updateservers>
   <config>
         <fields name="params">
